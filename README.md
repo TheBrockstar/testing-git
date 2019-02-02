@@ -2,6 +2,8 @@
 
 This is just a testing repository that can be used to test and learn various github commands. 
 
+This is a test.
+
 There are three folders:
 
 *** Module-1 ***
