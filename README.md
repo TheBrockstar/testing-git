@@ -18,3 +18,6 @@ Each folder has a text document in it.
 1. Branching (checkout, merge, etc)
 2. Squashing
 3. Rebasing
+
+i = 2
+
